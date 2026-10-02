@@ -1,0 +1,6 @@
+{
+  "name": "Tiempos Verbales Master - Ruta de Aprendizaje Paso a Paso",
+  "description": "Plataforma educativa para dominar los 12 tiempos verbales en inglés con avance secuencial estricto, respuestas dinámicamente intercaladas, teoría interactiva, audio nativo y examen final con certificado de maestría.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
